@@ -14,10 +14,10 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: configure
-      run: cd src && ./configure
+      run:  ./configure
     - name: make
-      run: cd src && make
+      run:  make
     - name: make check
-      run: cd src && make check
+      run:  make check
     - name: make distcheck
-      run: cd src && make distcheck
+      run:  make distcheck
