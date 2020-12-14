@@ -1,7 +1,7 @@
 Icacoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/icacoin-project/icacoin.svg?branch=master)](https://travis-ci.org/icacoin-project/icacoin)
+[![Build Status](https://travis-ci.com/spijkermenno/Icacoin.svg?branch=main)](https://travis-ci.com/spijkermenno/Icacoin)
 
 https://icacoin.org
 
